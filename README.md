@@ -201,7 +201,7 @@ This project was created to practice:
 
 ## Author
 
-**Mohamed Gihad**
+**Mohamed Jehad**
 
 GitHub: https://github.com/muhammedgihad10-png
 
